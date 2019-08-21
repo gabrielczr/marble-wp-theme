@@ -1,0 +1,23 @@
+/*!
+Theme Name: Marble
+Theme URI: https://google.com
+Author: Gbr_Czr
+Author URI: https://www.uprisingmarketing.us/
+Description: Marble perfectly balances the simplicity of a clean, eye-catching blog with the flexibility to create unique page layouts. 
+Version: 1.0.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: blog, news
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+Text Domain: marble
+*/
+.flex-container {
+  float: left;
+  display: flex;
+}
+
+.post-title {
+  padding-left: 2rem;
+}
